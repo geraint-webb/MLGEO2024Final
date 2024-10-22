@@ -18,11 +18,11 @@ This project aims to:
 ### Instructions for setting up the environment
 A .yml environment file will be uploaded alongside the PINN script later.
 
-## Script and Notebook Descriptions
-* *Scritps:* *
+### Script and Notebook Descriptions
+_Scritps_
 
 'get_sea_ice_data.ipynb'
 
 This notebook contains the code to download, combine, and clean up the NSIDC SIC data.
 
-* *Notebooks:* *
+_Notebooks_
