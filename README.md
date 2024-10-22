@@ -9,6 +9,8 @@ The data sources for this project include:
 * Northern hemisphere (NH) sea ice concentration (SIC) data from the National Snow and Ice Data Center (NSIDC)
 * Sea surface temperature (SST) data from ERA5, a reanalysis dataset produced by European Centre for Medium-Range Weather Forecasts (ECMWF)
 
+NEED TO ADD: Describe the data modalities, data formats. If applicable, describe large data archives that can be used for model inference, their size.
+
 ### Project Objectives
 This project aims to:
 * Produce a working physics-informed neural network (PINN) using only previous observational data of SIC and SST to predict present day SIC
